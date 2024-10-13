@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "framer-motion": "^11.9.0",
+    "lucide-react": "^0.446.0",
+    "react-modal": "^3.16.1",
+    "recharts": "^2.12.7"
+  }
+}
